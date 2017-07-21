@@ -1,4 +1,4 @@
-(function($) {
+module.exports = function($) {
 	var
 		// CSS EVENT DETECT
 		csse = {
@@ -2177,4 +2177,4 @@
 
 		});
 	};
-}(jQuery));
+};
